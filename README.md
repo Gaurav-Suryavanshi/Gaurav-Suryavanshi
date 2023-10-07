@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurav Saini and I'm a student.</h2>
+<h2 align="left">Hi 👋! My name is Gaurav Saini and I'm a Data Science student.</h2>
 
 ###
 
