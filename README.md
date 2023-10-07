@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/NGmWhmTR/gip.gif" />
+  <img height="200" width="1024" src="https://i.postimg.cc/NGmWhmTR/gip.gif" />
 </div>
 
 
