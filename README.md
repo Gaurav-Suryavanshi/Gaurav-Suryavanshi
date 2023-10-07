@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/cJdktP81/AI-ML-Part-3-Blog.jpg" />
+  <img height="200" src="https://i.postimg.cc/hPKtzS1Q/giphy.gif" />
 </div>
 
 
