@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/GpgyRL19/code.gif"  />
+<img align="right" height="200" src="https://i.postimg.cc/GpgyRL19/code.gif"  />
 
 ###
 
@@ -59,10 +59,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gaurav-Suryavanshi/Gaurav-Suryavanshi/output/snake.svg" alt="Snake animation" />
-
-###
