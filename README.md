@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.postimg.cc/GpgyRL19/code.gif"  />
+<img align="right" height="200" width="300" src="https://i.postimg.cc/GpgyRL19/code.gif"  />
 
 ###
 
